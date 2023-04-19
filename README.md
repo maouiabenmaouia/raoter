@@ -1,3 +1,5 @@
+API_URL ="https://api.themoviedb.org/3/movie/popular?
+api key=fa1192549721df01a1fb28a7788e6608"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
